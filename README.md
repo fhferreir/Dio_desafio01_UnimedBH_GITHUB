@@ -1,2 +1,4 @@
 # Dio_desafio01_UnimedBH_GITHUB
-Desafio 01 - Projeto GIT/GITHUB - Dio/Unimed-BH
+Repositório criado para o Desafio de Projeto 01 - GIT/GITHUB - Dio/Unimed-BH
+## Links úteis: 
+[sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/) 
